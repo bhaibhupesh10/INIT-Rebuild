@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+using tailwind css for the styling. 
+    npm install tailwindcss ( take reference from official tailwind css website. ) 
+
+using font awesome for icons of users etc. 
+
+    npm install @fortawesome/react-fontawesome @fortawesome/free-regular-svg-icons @fortawesome/fontawesome-svg-core
+
+using material ui in signin component
+    npm install @mui/material @emotion/react @emotion/styled
+    npm install @mui/icons-material
+    npm install @mui/system
+
+for Recruiter login page
+    npm install react-google-recaptcha
+    npm install @mui/material @emotion/react @emotion/styled
+    npm install @mui/icons-material
+
+for routing 
+    npm install react-router-dom
+
+
+
